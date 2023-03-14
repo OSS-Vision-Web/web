@@ -1,6 +1,7 @@
 ###### tags: `設立` `Webページ`
 # OSS-Vision
-![OSS-Vision_logo_final]([https://user-images.githubusercontent.com/122076596/224921049-a22f86bb-d688-4556-a95a-87d32bf7f870.png](https://drive.google.com/file/d/1jOfQA0c87b1k4RAiTtJznmQN3PAgxyP4/view?usp=share_link) )
+
+![OSS-Vision_logo_final](https://drive.google.com/file/d/1jOfQA0c87b1k4RAiTtJznmQN3PAgxyP4/view?usp=share_link)
 
 
 ## 会社の基本情報
