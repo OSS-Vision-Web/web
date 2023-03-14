@@ -1,4 +1,4 @@
-###### tags: `設立` `Webページ`
+<!-- ###### tags: `設立` `Webページ` -->
 
 ---
 ![OSS-Vision_logo_final_50_25](https://user-images.githubusercontent.com/122076596/224927494-f06a8722-30f4-4a44-bae0-b7bfa20c81ba.png)
