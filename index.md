@@ -2,7 +2,7 @@
 # OSS-Vision
 
 
-![OSS-Vision_logo_final](https://drive.google.com/file/d/1jOfQA0c87b1k4RAiTtJznmQN3PAgxyP4/view?usp=share_link)
+![OSS-Vision_logo_final](https://drive.google.com/file/d/1xRQ5x6w4pXuEzPVxAETNfAvvM7uo2_zn/view?usp=share_link)
 
 
 ## 会社の基本情報
