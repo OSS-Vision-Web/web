@@ -50,4 +50,4 @@ Ruby関連グッズを企画しRubyに関心を持っている人たちに活用
 ![DSC03104_30_25](https://user-images.githubusercontent.com/122076596/224929779-aca8d215-9095-4952-8451-0b6e5705b48b.jpg)
 
 ---
-[お問い合わせ](https://docs.google.com/forms/d/e/1FAIpQLSeGyVaUkdrAaKkCjZLL7WzuVZp_q7u2MRhZkeqXA9ONvmaE4A/viewform?usp=share_link)
+[お問い合わせ](https://docs.google.com/forms/d/e/1FAIpQLSeGyVaUkdrAaKkCjZLL7WzuVZp_q7u2MRhZkeqXA9ONvmaE4A/viewform?usp=sharing)
