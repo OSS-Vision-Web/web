@@ -46,4 +46,6 @@ Ruby関連グッズを企画しRubyに関心を持っている人たちに活用
 * イベント開催
 ・OSS-Vision conference 開催することを目指します。
 
+---
+![DSC03104_30_25](https://user-images.githubusercontent.com/122076596/224929779-aca8d215-9095-4952-8451-0b6e5705b48b.jpg)
 
