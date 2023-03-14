@@ -1,8 +1,9 @@
 ###### tags: `設立` `Webページ`
-# OSS-Vision
+
 
 ![OSS-Vision_logo_final_50_25](https://user-images.githubusercontent.com/122076596/224927494-f06a8722-30f4-4a44-bae0-b7bfa20c81ba.png)
 
+# OSS-Vision
 ## 会社の基本情報
 * 社名　OSS-Vision株式会社(OSS-Vision Inc.)
 * 所在　〒690-0883 島根県松江市北田町93番地2
