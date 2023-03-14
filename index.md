@@ -10,14 +10,14 @@
 * メンバー
     * 代表取締役　井上　浩
         * 肩書：　代表取締役CEO(Representative Director/CEO)
-        * Mail: h_inoue@oss-vision.com
+        
     * まつもと　ゆきひろ
         * 肩書：　専務取締役CTO(Senior Executive Director/CTO)　
-        * Mail: matz@oss-vision.com
+       
     
     * 杉原　健司
         * 肩書：　取締役CIO(Director/CIO)
-        * Mail: k_sugihara@oss-vision.com
+        
 
 
 
@@ -45,3 +45,5 @@ Ruby関連グッズを企画しRubyに関心を持っている人たちに活用
 
 * イベント開催
 ・OSS-Vision conference 開催することを目指します。
+
+
