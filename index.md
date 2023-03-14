@@ -3,11 +3,6 @@
 
 ![OSS-Vision_logo_final_50_25](https://user-images.githubusercontent.com/122076596/224927494-f06a8722-30f4-4a44-bae0-b7bfa20c81ba.png)
 
-![OSS-Vision_logo_final](https://user-images.githubusercontent.com/122076596/224921049-a22f86bb-d688-4556-a95a-87d32bf7f870.png)
-
-![OSS-Vision_logo_final](https://drive.google.com/file/d/1xRQ5x6w4pXuEzPVxAETNfAvvM7uo2_zn/view?usp=share_link)
-
-
 ## 会社の基本情報
 * 社名　OSS-Vision株式会社(OSS-Vision Inc.)
 * 所在　〒690-0883 島根県松江市北田町93番地2
