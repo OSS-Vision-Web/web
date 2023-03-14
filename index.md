@@ -1,6 +1,6 @@
 ###### tags: `設立` `Webページ`
 # OSS-Vision
-![](https://hackmd.io/_uploads/rJBkW2tTj.png)
+[](https://hackmd.io/_uploads/rJBkW2tTj.png)
 
 
 ## 会社の基本情報
