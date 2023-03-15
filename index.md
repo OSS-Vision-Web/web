@@ -4,23 +4,6 @@
 ![OSS-Vision_logo_final_50_25](https://user-images.githubusercontent.com/122076596/224927494-f06a8722-30f4-4a44-bae0-b7bfa20c81ba.png)
 ---
 # OSS-Vision
-## 会社の基本情報
-* 社名　OSS-Vision株式会社(OSS-Vision Co.,Ltd.)
-* 所在　〒690-0883 島根県松江市北田町93番地2
-* メンバー
-    * 代表取締役　井上　浩
-        * 肩書：　代表取締役CEO(Representative Director/CEO)
-        
-    * まつもと　ゆきひろ
-        * 肩書：　専務取締役CTO(Senior Executive Director/CTO)　
-       
-    
-    * 杉原　健司
-        * 肩書：　取締役CIO(Director/CIO)
-        
-
-
-
 ## コンセプト
 
 * 世界を変えるプロダクトを
@@ -45,6 +28,24 @@ Ruby関連グッズを企画しRubyに関心を持っている人たちに活用
 
 * イベント開催
 ・OSS-Vision conference 開催することを目指します。
+
+## 会社の基本情報
+* 社名　OSS-Vision株式会社(OSS-Vision Co.,Ltd.)
+* 所在　〒690-0883 島根県松江市北田町93番地2
+* メンバー
+    * 代表取締役　井上　浩
+        * 肩書：　代表取締役CEO(Representative Director/CEO)
+        
+    * まつもと　ゆきひろ
+        * 肩書：　専務取締役CTO(Senior Executive Director/CTO)　
+       
+    
+    * 杉原　健司
+        * 肩書：　取締役CIO(Director/CIO)
+        
+
+
+
 
 ---
 <!-- ![DSC03104_30_25](https://user-images.githubusercontent.com/122076596/224929779-aca8d215-9095-4952-8451-0b6e5705b48b.jpg) -->
